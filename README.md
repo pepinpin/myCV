@@ -2,5 +2,5 @@
 
 # myCV (mµCV)
 
-Available for free on Google Play :
+Available on Google Play :
 [soon](https://www.google.com)
