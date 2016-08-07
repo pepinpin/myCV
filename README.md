@@ -3,4 +3,4 @@
 # myCV (mµCV)
 
 Available on Google Play :
-[soon](https://www.google.com)
+[soon](https://play.google.com/store/apps/details?id=net.biospherecorp.mycv)
