@@ -2,5 +2,7 @@
 
 # myCV (mµCV)
 
+
 Available on Google Play :
-[soon](https://play.google.com/store/apps/details?id=net.biospherecorp.mycv)
+
+[mµCV](https://play.google.com/store/apps/details?id=net.biospherecorp.mycv)
