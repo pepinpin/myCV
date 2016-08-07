@@ -5,4 +5,4 @@
 
 Available on Google Play :
 
-[mµCV](https://play.google.com/store/apps/details?id=net.biospherecorp.mycv)
+[here](https://play.google.com/store/apps/details?id=net.biospherecorp.mycv)
