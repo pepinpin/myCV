@@ -2,6 +2,9 @@
 
 # myCV (mµCV)
 
+Loads my CV in an app
+Detects the device language and displays the CV accordingly (in french or english)
+
 
 Available on Google Play :
 
