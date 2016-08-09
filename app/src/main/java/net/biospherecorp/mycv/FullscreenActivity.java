@@ -50,6 +50,11 @@ public class FullscreenActivity extends AppCompatActivity {
 		// uses the viewport HTML tag (if exists) to correctly display webpages
 		webView.getSettings().setUseWideViewPort(true);
 
+		// set the webview options
+		//
+		// allow javascript (needed by bootstrap)
+		webView.getSettings().setJavaScriptEnabled(true);
+
 		// set the web client and intercept all links clicked
 		// if the link is redirecting to a page outside the biospherecorp.net
 		// domain, open it in a new browser
